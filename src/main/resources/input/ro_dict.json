@@ -1,0 +1,216 @@
+[
+	{
+	"word": "pisică",
+	"word_en": "cat",
+	"type": "noun",
+	"singular": ["pisică"],
+	"plural": ["pisici"],
+	"definitions": [
+		{
+			"dict": "Dicționar de sinonime",
+			"dictType": "synonyms",
+			"year": 1998,
+			"text": ["mâță", "cotoroabă", "cătușă"]
+		},
+		{
+			"dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+			"dictType": "definitions",
+			"year": 2002,
+			"text": ["Mamifer domestic carnivor din familia felinelor, cu corpul suplu, acoperit cu blană deasă și moale de diferite culori, cu capul rotund, cu botul foarte scurt, cu maxilarele puternice și cu ghearele retractile și ascuțite",
+			"Dispozitiv de agățare și de desprindere a berbecului din capătul cablului de ridicare de la sonetele cu cădere liberă",
+			"Mănunchi de sârme de oțel, folosit pentru curățarea de noroi sau de pământ a utilajelor de foraj"]
+		}
+		]
+	},
+	{
+	"word": "câine",
+	"word_en": "dog",
+	"type": "noun",
+	"singular": ["câine"],
+	"plural": ["câini"],
+	"definitions": [
+		{
+			"dict": "Dicționar de sinonime",
+			"dictType": "synonyms",
+			"year": 1998,
+			"text": ["lătrător", "molie", "dulău"]
+		},
+		{
+			"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+			"dictType": "definitions",
+			"year": 2009,
+			"text": ["Animal mamifer carnivor, domesticit, folosit pentru pază, vânătoare etc."]
+		},
+		{
+			"dict": "Dicționar universal al limbei române, ediția a VI-a)",
+			"dictType": "definitions",
+			"year": 1929,
+			"text": ["animal domestic din familia carnivorelor digitigrade",
+			"fig. (termen de dispreț) om rău (câinele fiind considerat ca tipul răutății): câinele de tată-său Pop",
+			"nume a două constelațiuni",
+			"Mold. (sens tehnic) masă de tras doage" ]
+		}
+		]
+	},
+	{
+	"word": "merge",
+	"word_en": "walk",
+	"type": "verb",
+	"singular": ["merg", "mergi", "merge"],
+	"plural": ["mergem", "mergeți", "merg"],
+	"definitions": [
+		{
+			"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+			"dictType": "definitions",
+			"year": 2009,
+			"text": ["A se mișca deplasându-se dintr-un loc în altul; a se deplasa, a umbla",
+			"A putea fi înghițit ușor; a aluneca pe gât"]
+		},
+		{
+			"dict": "Micul dicționar academic, ediția a II-a",
+			"dictType": "definitions",
+			"year": 2010,
+			"text": ["A se da peste cap", 
+			"A preceda în spațiu", 
+			"A frecventa cursurile unei instituții de învățământ"]
+		}
+		]
+	},
+	{
+		"word": "mânca",
+		"word_en": "eat",
+		"type": "verb",
+		"singular": ["mănânc", "mănânci", "mănâncă"],
+		"plural": ["mâncăm", "mâncați", "mănâncă"],
+		"definitions": [
+			{
+				"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+				"dictType": "definitions",
+				"year": 2009,
+				"text": ["A mesteca un aliment în gură și a-l înghiți; a folosi în alimentație, a consuma",
+				"A se folosi de binefacerile cuiva"]
+			},
+			{
+				"dict": "Dicționar de sinonime",
+				"dictType": "synonyms",
+				"year": 1998,
+				"text": ["mesteca"]
+			}
+		]
+	},
+	{
+		"word": "carne",
+		"word_en": "meat",
+		"type": "noun",
+		"singular": ["carne"],
+		"plural": ["cărnuri"],
+		"definitions": [
+			{
+				"dict": "Dicționar de sinonime",
+				"dictType": "synonyms",
+				"year": 1998,
+				"text": ["hanţ", "pulpă"]
+			},
+			{
+				"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+				"dictType": "definitions",
+				"year": 2009,
+				"text": ["Țesutul muscular al corpului omenesc și al animalelor împreună cu țesuturile moi",
+				"Partea interioară a pielii, opusă feței acesteia"]
+			}
+		]
+	},
+	{
+		"word": "măr",
+		"word_en": "apple",
+		"type": "noun",
+		"singular": ["măr"],
+		"plural": ["mere"],
+		"definitions": [
+			{
+				"dict": "Dicționar de sinonime",
+				"dictType": "synonyms",
+				"year": 1998,
+				"text": ["merișor", "cartof"]
+			},
+			{
+				"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+				"dictType": "definitions",
+				"year": 2009,
+				"text": ["Fruct al mărului, de formă rotundă-turtită și de diferite culori",
+				"proeminență a zgârciului tiroidian, vizibilă la bărbați în partea anterioară a gâtului; nodul gâtului"]
+			}
+		]
+	},
+	{
+		"word": "pasăre",
+		"word_en": "bird",
+		"type": "noun",
+		"singular": ["pasăre"],
+		"plural": ["păsări"],
+		"definitions": [
+			{
+				"dict": "Dicționar de sinonime",
+				"dictType": "synonyms",
+				"year": 1998,
+				"text": ["zburătoare", "trecere"]
+			},
+			{
+				"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+				"dictType": "definitions",
+				"year": 2009,
+				"text": ["Clasă de vertebrate ovipare, cu corpul acoperit cu pene",
+				"Nume generic pentru păsările domestice crescute pe lângă casa omului",
+				"pasăre mică cu penele de diferite culori în care predomină culoarea albă"]
+			}
+		]
+	},
+	{
+		"word": "cădea",
+		"word_en": "fall",
+		"type": "verb",
+		"singular": ["cad", "cazi", "cad"],
+		"plural": ["cădem", "cădeți", "cad"],
+		"definitions": [
+			{
+				"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+				"dictType": "definitions",
+				"year": 2009,
+				"text": ["A se deplasa de sus în jos datorită greutății, a se lăsa în jos; a pica",
+				"A se lăsa, a veni, a se apropia",
+				"A avea un insucces, a nu reuși",
+				"A nimeri din întâmplare, pe neașteptate într-un loc sau într-o situație"]
+			},
+			{
+				"dict": "Dicționar de sinonime",
+				"dictType": "synonyms",
+				"year": 1998,
+				"text": ["pica", "coborî", "prăvăli", "atârna", "desprinde"]
+			}
+		]
+	},
+	{
+		"word": "zbura",
+		"word_en": "fly",
+		"type": "verb",
+		"singular": ["zbor", "zbori", "zbor"],
+		"plural": ["zburăm", "zburați", "zboară"],
+		"definitions": [
+			{
+				"dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+				"dictType": "definitions",
+				"year": 2009,
+				"text": ["A plana și a se mișca în aer cu ajutorul aripilor",
+					"A se ridica și a se menține în văzduh, a se deplasa pe calea aerului",
+					"A smulge de la locul său, aprăvăli, a răsturna",
+					"A merge foarte repede, a alerga, a goni"]
+			},
+			{
+				"dict": "Dicționar de sinonime",
+				"dictType": "synonyms",
+				"year": 1998,
+				"text": ["alerga", "goni", "fugi", "repezi", "trece"]
+			}
+		]
+	}
+]

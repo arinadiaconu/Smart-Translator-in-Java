@@ -1,0 +1,371 @@
+[
+  {
+    "word": "chat",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "chat"
+    ],
+    "plural": [
+      "chats"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "greffier",
+          "mistigri",
+          "matou",
+          "minet"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Mammifère carnivore (félidé), sauvage ou domestique, au museau court et arrondi",
+          "Familier. Terme d\u0027affection, de tendresse adressé à quelqu\u0027un",
+          "Jeu d\u0027enfants dans lequel un des joueurs, le chat, poursuit les autres et tente de les toucher"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chien",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": [
+      "chien"
+    ],
+    "plural": [
+      "chiens"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "canin",
+          "radin",
+          "cabot",
+          "ladre"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Mammifère carnivore aux multiples races, caractérisé par sa facilité à être domestiqué",
+          "Personne bassement servile ou personne maltraitée et réduite à une domesticité honteuse"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jeu",
+    "word_en": "game",
+    "type": "noun",
+    "singular": [
+      "jeu"
+    ],
+    "plural": [
+      "jeux"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "amusement",
+          "délassement",
+          "distraction",
+          "divertissement",
+          "passe-temps",
+          "récréation"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Activité d\u0027ordre physique ou mental, non imposée, ne visant à aucune fin utilitaire, et à laquelle on s\u0027adonne pour se divertir, en tirer un plaisir",
+          "Activité de loisir soumise à des règles conventionnelles, comportant gagnant(s) et perdant(s) et où interviennent, de façon variable, les qualités physiques ou intellectuelles, l\u0027adresse, l\u0027habileté et le hasard",
+          "Ensemble des différents jeux de hasard, en particulier ceux où l\u0027on risque de l\u0027argent",
+          "Ensemble des règles qui régissent un divertissement organisé"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manger",
+    "word_en": "eat",
+    "type": "verb",
+    "singular": [
+      "mange",
+      "manges",
+      "mange"
+    ],
+    "plural": [
+      "mangeons",
+      "mangez",
+      "mangent"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "absorber",
+          "becqueter",
+          "bouffer",
+          "boulotter",
+          "briffer",
+          "ingurgiter"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Porter quelque chose à sa bouche, le mâcher, le mâchonner, le ronger, le mordiller, etc. (sans généralement avaler)",
+          "Entamer quelque chose, ronger, altérer",
+          "En parlant d\u0027un insecte, entamer quelque chose, une matière, y faire des trous"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marcher",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "marche",
+      "marches",
+      "marche"
+    ],
+    "plural": [
+      "marchons",
+      "marchez",
+      "marchent"
+    ],
+    "definitions": [
+      {
+        "dict": "Dictionnaire des Synonymes",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "aller",
+          "avancer",
+          "défiler",
+          "piétiner",
+          "trottiner"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Se déplacer en mettant un pied devant l\u0027autre : Enfant qui commence à marcher",
+          "Se déplacer en gardant le contact avec le sol de telle ou telle manière : Marcher à quatre pattes"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "oiseau",
+    "word_en": "bird",
+    "type": "noun",
+    "singular": [
+      "oiseau"
+    ],
+    "plural": [
+      "oiseaux"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "bête",
+          "biquet",
+          "civière",
+          "oisillon"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Vertébré ovipare, couvert de plumes et d\u0027écailles cornées, à respiration pulmonaire",
+          "Individu singulier, peu recommandable",
+          "Autrefois, dispositif qui servait pour transporter le mortier à dos d\u0027homme",
+          "Sorte de chevalet qu\u0027on applique sur la pente d\u0027un toit pour installer un échafaudage"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pomme",
+    "word_en": "apple",
+    "type": "noun",
+    "singular": [
+      "pomme"
+    ],
+    "plural": [
+      "pommes"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "boule",
+          "cave",
+          "châtaigne",
+          "fruit"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Fruit du pommier, charnu, de forme plus ou moins arrondie, de couleur verte, jaune ou rouge",
+          "Objet, partie d\u0027objet ou ornement de forme arrondie",
+          "Partie centrale d\u0027un légume (chou, laitue) dont les feuilles serrées sont disposées en boule"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prier",
+    "word_en": "prayer",
+    "type": "noun",
+    "singular": [
+      "prier"
+    ],
+    "plural": [
+      "priers"
+    ],
+    "definitions": []
+  },
+  {
+    "word": "tomber",
+    "word_en": "fall",
+    "type": "verb",
+    "singular": [
+      "tombe",
+      "tombes",
+      "tombe"
+    ],
+    "plural": [
+      "tombons",
+      "tombez",
+      "tombent"
+    ],
+    "definitions": [
+      {
+        "dict": "Dictionnaire des Synonymes",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "chuter",
+          "diminuer",
+          "casser",
+          "baisser",
+          "passer"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Perdre l\u0027équilibre et faire une chute, s\u0027affaisser au sol ; s\u0027abattre, crouler, s\u0027écrouler",
+          "Être entraîné, précipité, par son propre poids, d\u0027un lieu haut vers un lieu bas"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "viande",
+    "word_en": "meat",
+    "type": "noun",
+    "singular": [
+      "viande"
+    ],
+    "plural": [
+      "viandes"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "barbaque",
+          "bidoche",
+          "chair",
+          "gibier"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Aliment tiré des muscles des animaux, principalement des mammifères et des oiseaux",
+          "Chair, corps humain"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "voler",
+    "word_en": "fly",
+    "type": "verb",
+    "singular": [
+      "vole",
+      "voles",
+      "vole"
+    ],
+    "plural": [
+      "volons",
+      "volez",
+      "volent"
+    ],
+    "definitions": [
+      {
+        "dict": "Dictionnaire des Synonymes",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "étriller",
+          "filouter"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Prendre, s\u0027approprier quelque chose qui est le bien d\u0027autrui par la ruse ou par la force",
+          "Commettre un vol, un cambriolage chez quelqu\u0027un"
+        ]
+      }
+    ]
+  }
+]
